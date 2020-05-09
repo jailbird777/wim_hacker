@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{7983FF6A-CE7C-4BBF-995E-49666B2C47AF}") = "wim_hacker", "wim_hacker.csproj", "{7983FF6A-CE7C-4BBF-995E-49666B2C47AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7983FF6A-CE7C-4BBF-995E-49666B2C47AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7983FF6A-CE7C-4BBF-995E-49666B2C47AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7983FF6A-CE7C-4BBF-995E-49666B2C47AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7983FF6A-CE7C-4BBF-995E-49666B2C47AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
