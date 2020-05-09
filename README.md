@@ -28,8 +28,8 @@ You use:
 Where packages.txt is a text file containing the component package masks, one
 per line, like:
 
-Microsoft-Hyper-V
-HyperV
+    Microsoft-Hyper-V
+    HyperV
 
 ### Important Disclaimer: I did not write the original code, and I'm NOT a C# dev!
 
